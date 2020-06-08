@@ -29,7 +29,7 @@ SECRET_KEY = 'h1ip)7!33&kor*skv$*0w=cq076&%e+(&+11i74i9ic87)jnpe'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [django-blog-jonas.herokuapp.com]
+ALLOWED_HOSTS = ['django-blog-jonas.herokuapp.com']
 
 
 # Application definition
